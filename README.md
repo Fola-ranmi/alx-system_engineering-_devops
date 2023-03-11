@@ -1,2 +1,13 @@
 # alx-system_engineering-_devops
-shell basics
+mkdirøxøø-shell_basics
+ø-current _working_directory 
+
+
+
+
+
+
+
+
+
+
